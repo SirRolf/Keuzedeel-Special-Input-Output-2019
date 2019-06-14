@@ -1,11 +1,13 @@
 # Logboek
-Het logboek komt te staan op Google Calendar. Iedere groep maakt zijn eigen calender aan, en iedere dag wordt er een logboek item aangemaakt. Zorg ervoor dat het hele team toegang heeft tot het logboek en dat iedereen items kan aanmaken.
+niet mogelijk te delen zie voorbeeld in presentatie
 
 # Templates
 
 [Beoordeling Producten, Schema](https://github.com/MediacollegeAmsterdam/Keuzedeel-Special-Input-Output-2019/blob/master/Keuzedeel/Beoordeling%20producten%20schema.pdf)
 
 ## Presentatie
+
+[presentatie](https://docs.google.com/presentation/d/11R4Yq9v15HQ5C1899qneAZ7mUTW75kVtx6d32LsD2EA/edit?usp=sharing)
 Voor presentaties 1, 2 en eind wordt dezelfde template gebruikt.  
 In de presentatie gaan jullie je portfolios toelichten. Jullie gaan dus presenteren:
 * **Scrum**  
@@ -25,13 +27,10 @@ Tijdens het testen zijn allemaal dingen naar voren gekomen. De meest opmerkelijk
 De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie portfolios. Documenten.
 
 ### Onderzoek
-In dit document kun je jouw onderzoek documenteren. Welke hardware werkt op welke manier, welke software is te gebruiken. Registreer de bronnen die jullie hebben gevonden en tot welke conclusie jullie zijn gekomen.  
-Maak een kopie van [deze template](https://docs.google.com/document/d/1-8Lun7FkWvkTVKPMMm6BKp_DRDbwV6GFRjUCsTPgfGQ/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
+* [Onderzoek](https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing)
 
 ### Ontwerp documentatie
-In dit document leg je jullie plan voor de applicatie vast.  
-Maak een kopie van [deze template](https://docs.google.com/document/d/1vUcPZnt2DNiBwPlGxF2GW2h1UzxJ7e13t7Eh3B14KBs/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
+[Ontwerp](https://docs.google.com/document/d/12vrdoyGtdztuKdKxEcKVd2XZC5MlI6FQhy-5VdLFM9c/edit?usp=sharing)
 
 ### Testrapportage
-In dit document wordt jullie testen beschreven. Van elke (user)test die jullie hebben uitgevoerd is er een testplan aanwezig, de resultaten en een link naar de opname.  
-Maak een kopie van [deze template](https://docs.google.com/document/d/1GVerzw073bxFV1_LC7WGpq9_S2qSz38tWkvaA_kYpLM/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
+[Video naar YouTube voor ons testrapportage]()
