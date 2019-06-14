@@ -3,7 +3,7 @@
 1. Sjors
 2. Floris
 
-[https://trello.com/b/Ode4qy1T/inputoutput]() <Trello scrumboard bijvoorbeeld>
+[https://trello.com/b/Ode4qy1T/inputoutput]()
 
 ## Ontwerp
 Beschrijf hier kort jullie project
