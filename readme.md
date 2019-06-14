@@ -10,7 +10,7 @@ Wij willen een robotje maken met als basis een raspberry Pi en een rcv frame(in 
 
 ## Portfolio
 
-* [https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing]() onderzoek
-* [Ontwerp]()
+* Onderzoek [https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing]()
+* Ontwerp [https://docs.google.com/document/d/12vrdoyGtdztuKdKxEcKVd2XZC5MlI6FQhy-5VdLFM9c/edit?usp=sharing]()
 * [Testrapportage]()
 * [Presentatie]()
