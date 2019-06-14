@@ -6,7 +6,7 @@
 [https://trello.com/b/Ode4qy1T/inputoutput]()
 
 ## Ontwerp
-Wij willen een robotje maken met als basis een raspberry Pi en een rcv frame(in het kort een kit met motortjes zodat je kan rijden. Zie in bronnen). Hierop willen wij een hoop toevoegingen maken die het wat leuker maken. dus we beginnen klein en maken het steeds leuker.
+Wij willen een robotje maken met sensor beweging en als basis een raspberry Pi en een rcv frame(in het kort een kit met motortjes zodat je kan rijden. Zie in bronnen). Hierop willen wij een hoop toevoegingen maken die het wat leuker maken. dus we beginnen klein en maken het steeds leuker.
 
 ## Portfolio
 
