@@ -1,3 +1,3 @@
 # Project
 
-[link naar mijn project](https://github.com/SirRolf/InputOutput)
+[link naar mijn project zijn repo](https://github.com/SirRolf/InputOutput)
