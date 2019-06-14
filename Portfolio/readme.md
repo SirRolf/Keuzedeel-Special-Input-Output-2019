@@ -27,7 +27,7 @@ Tijdens het testen zijn allemaal dingen naar voren gekomen. De meest opmerkelijk
 De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie portfolios. Documenten.
 
 ### Onderzoek
-* [Onderzoek](https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing)
+[Onderzoek](https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing)
 
 ### Ontwerp documentatie
 [Ontwerp](https://docs.google.com/document/d/12vrdoyGtdztuKdKxEcKVd2XZC5MlI6FQhy-5VdLFM9c/edit?usp=sharing)
