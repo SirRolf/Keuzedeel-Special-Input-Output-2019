@@ -33,4 +33,4 @@ De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie p
 [Ontwerp](https://docs.google.com/document/d/12vrdoyGtdztuKdKxEcKVd2XZC5MlI6FQhy-5VdLFM9c/edit?usp=sharing)
 
 ### Testrapportage
-[Video naar YouTube voor ons testrapportage]()
+[Video naar YouTube voor ons testrapportage](https://youtu.be/K97M4RBdxIU)
