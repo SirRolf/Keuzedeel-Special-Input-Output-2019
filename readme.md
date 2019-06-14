@@ -13,4 +13,4 @@ Wij willen een robotje maken met sensor beweging en als basis een raspberry Pi e
 * [Onderzoek](https://docs.google.com/document/d/15LRhTb2txNeD0nnt9q7WvhqF7nYxqihBdETNdQ-m4XQ/edit?usp=sharing)
 * [Ontwerp](https://docs.google.com/document/d/12vrdoyGtdztuKdKxEcKVd2XZC5MlI6FQhy-5VdLFM9c/edit?usp=sharing)
 * [Testrapportage]()
-* [Presentatie]()
+* [Presentatie](https://docs.google.com/presentation/d/11R4Yq9v15HQ5C1899qneAZ7mUTW75kVtx6d32LsD2EA/edit?usp=sharing)
