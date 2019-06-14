@@ -1,7 +1,7 @@
 # Special Input/Output
 # Team
-1. Sjors
-2. Floris
+1. Sjors van der Kleij
+2. Floris van den Berg
 
 [https://trello.com/b/Ode4qy1T/inputoutput]()
 
